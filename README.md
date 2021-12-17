@@ -1,1 +1,2 @@
-Iniciar el servidor con el comando npm run start
+Comando para ejecurar el servidor
+npm run start
